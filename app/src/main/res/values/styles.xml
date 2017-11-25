@@ -19,7 +19,7 @@
     </style>
     <style name="transpaterntactionbar" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:actionBarStyle">@color/transparent</item>
-        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimary">@color/mustard</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
 
